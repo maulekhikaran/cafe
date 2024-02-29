@@ -1,0 +1,45 @@
+/* OnlineOrdering.css */
+.online-ordering {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .menu, .cart {
+    flex-basis: 45%;
+  }
+  
+  .menu ul, .cart ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .menu li, .cart li {
+    margin-bottom: 10px;
+  }
+  
+  .checkout-form {
+    margin-top: 20px;
+  }
+  
+  .checkout-form label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .checkout-form input, .checkout-form select {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  .checkout-form button {
+    background-color: #FFA500;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .checkout-form button:hover {
+    background-color: #FF8C00;
+  }
+  

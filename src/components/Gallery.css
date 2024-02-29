@@ -1,0 +1,23 @@
+/* Gallery.css */
+
+.gallery {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .gallery h2 {
+    margin-bottom: 20px;
+  }
+  
+  .image-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+  }
+  
+  .image-grid img {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+  }
+  

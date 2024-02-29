@@ -1,0 +1,21 @@
+/* CustomerReviews.css */
+
+.customer-reviews {
+    padding: 20px;
+  }
+  
+  .customer-reviews h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .review {
+    margin-bottom: 20px;
+  }
+  
+  .review p {
+    font-size: 1.1em;
+    line-height: 1.5;
+    /* Add more styles as needed */
+  }
+  

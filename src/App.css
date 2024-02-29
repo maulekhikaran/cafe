@@ -1,0 +1,18 @@
+/* app.css */
+
+/* Import other CSS files */
+@import url('./components/Navbar.css');
+@import url('./components/Homepage.css');
+@import url('./components/Footer.css');
+@import url('./components/Reservation.css');
+@import url('./components/LocationAndContact.css');
+@import url('./components/AboutUs.css');
+@import url('./components/Gallery.css');
+@import url('./components/SpecialsAndPromotions.css');
+@import url('./components/CustomerReviews.css');
+@import url('./components/EventsCalendar.css');
+@import url('./components/ContactForm.css');
+@import url('./components/SocialMediaIntegration.css');
+@import url('./components/NewsletterSignup.css');
+@import url('./components/OnlinePaymentIntegration.css');
+/* Add more import statements for other CSS files as needed */

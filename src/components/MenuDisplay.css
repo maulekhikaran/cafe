@@ -1,0 +1,21 @@
+.menu-display {
+    /* Add styles for the menu display container */
+    background-color: #fff;
+    padding: 20px;
+    /* Add more styles as needed */
+  }
+  
+  .menu-display h2 {
+    font-size: 2em;
+    color: #333;
+  }
+  
+  .menu-display ul {
+    list-style-type: none;
+  }
+  
+  .menu-display li {
+    font-size: 1.2em;
+    color: #666;
+  }
+  

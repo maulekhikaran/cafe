@@ -1,0 +1,25 @@
+/* SocialMediaIntegration.css */
+
+.social-media {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .social-media h2 {
+    margin-bottom: 10px;
+  }
+  
+  .social-links {
+    font-size: 24px;
+  }
+  
+  .social-links a {
+    color: #333;
+    text-decoration: none;
+    margin: 0 10px;
+  }
+  
+  .social-links a:hover {
+    color: #007bff;
+  }
+  

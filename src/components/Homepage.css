@@ -1,0 +1,34 @@
+.homepage {
+  /* Add styles for the homepage container */
+  background-image: url('../../public/assets/cafe-image.jpg'); /* Replace 'your-image-url.jpg' with the URL of your background image */
+  background-size: cover;
+  background-position: center;
+  padding: 200px;
+  text-align: center;
+
+  /* Add more styles as needed */
+}
+
+.homepage h1 {
+  font-size: 2.5em;
+  color: #333;
+}
+
+.homepage p {
+  font-size: 1.2em;
+  color:white;
+}
+/* Homepage.css */
+
+.homepage {
+  position: relative; /* Add position relative to create a stacking context */
+}
+
+
+
+.specials-corner {
+  position: absolute;
+  top: 20px; /* Adjust top position as needed */
+  right: 280px; /* Adjust right position as needed */
+}
+

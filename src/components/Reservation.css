@@ -1,0 +1,42 @@
+/* Reservation.css */
+
+.reservation {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  .reservation h2 {
+    text-align: center;
+  }
+  
+  .reservation form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .reservation label {
+    margin-bottom: 5px;
+  }
+  
+  .reservation input,
+  .reservation textarea {
+    margin-bottom: 10px;
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  .reservation button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .reservation button:hover {
+    background-color: #0056b3;
+  }
+  

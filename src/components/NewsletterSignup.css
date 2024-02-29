@@ -1,0 +1,37 @@
+/* NewsletterSignup.css */
+
+.newsletter-signup {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .newsletter-signup h2 {
+    margin-bottom: 10px;
+  }
+  
+  .newsletter-signup form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .newsletter-signup input[type="email"] {
+    padding: 8px 12px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .newsletter-signup button {
+    padding: 8px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .newsletter-signup button:hover {
+    background-color: #0056b3;
+  }
+  

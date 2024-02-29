@@ -1,0 +1,21 @@
+/* SpecialsAndPromotions.css */
+
+.specials {
+    padding: 20px;
+  }
+  
+  .specials h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .specials-content {
+    text-align: center;
+  }
+  
+  .specials-content p {
+    font-size: 1.1em;
+    line-height: 1.5;
+    /* Add more styles as needed */
+  }
+  
